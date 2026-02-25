@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="22px" height="22px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 22 22"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#80CEEA;stroke-width:2.00015;stroke-linecap:round;stroke-linejoin:round}
+    .fil0 {fill:none;fill-rule:nonzero}
+    .fil1 {fill:#80CEEA;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Vrstva_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_962424176">
+   <line class="fil0 str0" x1="6" y1="20" x2="6" y2= "18" />
+   <line class="fil0 str0" x1="16" y1="20" x2="16" y2= "18" />
+   <line class="fil0 str0" x1="16" y1="18" x2="6" y2= "18" />
+   <path class="fil0 str0" d="M6 18c-1,0 -2,-1 -2,-2"/>
+   <line class="fil0 str0" x1="4" y1="16" x2="4" y2= "7" />
+   <path class="fil0 str0" d="M4 7c0,-1 1,-2 2,-2"/>
+   <line class="fil0 str0" x1="6" y1="5" x2="16" y2= "5" />
+   <path class="fil0 str0" d="M16 5c1,0 2,1 2,2"/>
+   <line class="fil0 str0" x1="18" y1="7" x2="18" y2= "16" />
+   <path class="fil0 str0" d="M18 16c0,1 -1,2 -2,2"/>
+   <line class="fil0 str0" x1="7" y1="2" x2="15" y2= "2" />
+   <path class="fil1" d="M5 12l0 6 12 0 0 -6 -12 0zm2 4l0 0c0,0 -1,-1 -1,-1 0,-1 1,-2 1,-2 1,0 2,1 2,2 0,0 -1,1 -2,1zm7 0l0 0c0,0 -1,-1 -1,-1 0,-1 1,-2 1,-2 1,0 2,1 2,2 0,0 -1,1 -2,1z"/>
+  </g>
+  <g id="_962432400">
+   <line class="fil0 str0" x1="6" y1="20" x2="6" y2= "18" />
+   <line class="fil0 str0" x1="16" y1="20" x2="16" y2= "18" />
+   <line class="fil0 str0" x1="16" y1="18" x2="6" y2= "18" />
+   <path class="fil0 str0" d="M6 18c-1,0 -2,-1 -2,-2"/>
+   <line class="fil0 str0" x1="4" y1="16" x2="4" y2= "7" />
+   <path class="fil0 str0" d="M4 7c0,-1 1,-2 2,-2"/>
+   <line class="fil0 str0" x1="6" y1="5" x2="16" y2= "5" />
+   <path class="fil0 str0" d="M16 5c1,0 2,1 2,2"/>
+   <line class="fil0 str0" x1="18" y1="7" x2="18" y2= "16" />
+   <path class="fil0 str0" d="M18 16c0,1 -1,2 -2,2"/>
+   <line class="fil0 str0" x1="7" y1="2" x2="15" y2= "2" />
+   <path class="fil1" d="M5 12l0 6 12 0 0 -6 -12 0zm2 4l0 0c0,0 -1,-1 -1,-1 0,-1 1,-2 1,-2 1,0 2,1 2,2 0,0 -1,1 -2,1zm7 0l0 0c0,0 -1,-1 -1,-1 0,-1 1,-2 1,-2 1,0 2,1 2,2 0,0 -1,1 -2,1z"/>
+  </g>
+ </g>
+</svg>

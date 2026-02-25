@@ -1,0 +1,249 @@
+.datepicker table tr td.disabled.day {
+    color: #777777;
+}
+
+    .datepicker table tr td.disabled.day:hover, .datepicker table tr td span.disabled.month:hover, .datepicker table tr td span.disabled.year:hover {
+        background-color: #009fda !important;
+    }
+
+.cd-icon-calendar2 {
+    left: 400px !important;
+    top: 30px !important;
+    background: url('../images/cdosn/ico-callendar.svg') 10px 10px no-repeat;
+    cursor: pointer;
+    pointer-events: auto;
+}
+
+/* upravy kvuli pouziti datepicker bootrstrap verze 1.5.0, puvodni verze 1.4.1 - start */
+.datepicker-dropdown.datepicker-orient-bottom:before {
+    top: -7px;
+    bottom: auto;
+    border-bottom: 7px solid #ccc;
+    border-top: 0;
+}
+
+.datepicker-dropdown.datepicker-orient-bottom:after {
+    top: -6px;
+    bottom: auto;
+    border-bottom: 6px solid #fff;
+    border-top: 0;
+}
+
+.datepicker thead .prev, .datepicker thead .next, .datepicker .datepicker-switch {
+    cursor: pointer;
+}
+
+.datepicker.datepicker-orient-bottom {
+  margin-top: 2px !important;
+}
+
+.datepicker .table-condensed tfoot {
+    display: none;
+}
+/* upravy kvuli datepicker bootrstrap verze 1.5.0 - end */
+
+.datepicker table tr td.old, .datepicker table tr td.new {
+    visibility: hidden;
+    font-size: 1px;
+    height: 1px !important;
+    padding: 0;
+}
+
+.datepicker table tr td.today.day, .datepicker table tr td.today.disabled.day:hover {
+    background-color: #002664 !important;
+    border-radius: 50%;
+}
+
+.datepicker table tr td.today.day {
+    color: #FFFFFF !important;
+}
+
+.datepicker table tr td.active.day, .datepicker table tr td.today.day:hover {
+    border-radius: 50%;
+    color: #FFFFFF !important;
+}
+
+.datepicker table tr td.disabled.day, .datepicker table tr td.disabled.day:hover, .datepicker .disabled.month, .datepicker .disabled.year {
+    color: #67B6D4 !important;    
+}
+
+.datepicker table tr td.active.day, .datepicker table tr td.today.day:hover, .datepicker .month.active, .datepicker .year.active {
+    background-color: #80cfed !important;
+} 
+
+/* modal - kalendar jizdy - start */
+#ogDateLimitsCalModal .cd-modal-content .og-modal-datelimitscal {
+    float: right;
+}
+
+#ogDateLimitsCalModal .og-modal-datelimitscal table tr td.day {
+    cursor: default;
+}
+
+#ogDateLimitsCalModal .og-modal-datelimitscal table tr td.day:hover, #ogDateLimitsCalModal .og-modal-datelimitscal table tr td.day.active  {
+     background-color: #009fda !important;
+}
+
+#ogDateLimitsCalModal .og-modal-datelimitscal table tr td.day.today:hover, #ogDateLimitsCalModal .og-modal-datelimitscal table tr td.day.today.active {
+     background-color: #002664 !important;
+}
+
+#ogDateLimitsCalModal .ogtrainname {
+    color: #009FDA;
+    margin-top: 20px;
+}
+
+#ogDateLimitsCalModal .ogfromtolabel, #ogDateLimitsCalModal .oginfotext {
+    color: #acb5bd;
+}
+
+#ogDateLimitsCalModal .ogfromto {
+    color: #333f4d;
+}
+
+#ogDateLimitsCalModal .ogfromtolabel {
+    margin-top: 15px;
+}
+
+#ogDateLimitsCalModal .oginfotext {
+    margin-top: 40px;
+}
+
+#ogDateLimitsCalModal .ogtrainname, #ogDateLimitsCalModal .ogfromto {
+    font-size: 130%;
+}
+
+/* modal - kalendar jizdy - end */
+
+/***** naseptavac - start *****/
+
+/* pokud sipkama vybereme v naseptavaci polozku zvyraznime jakoby mela nastaveny hover */
+li.ui-menu-item.ui-state-focus > a {
+    text-decoration: none;
+    color: #262626;
+    background-color: #f5f5f5;
+}
+
+/* aby nebyly odkazy v naseptavaci podtrhle */
+li.ui-menu-item a {
+    text-decoration: none;
+}
+
+/* pravidla pro via stanice s krizkem na smazani - pro naseptavac (customize pro modry layout) */
+a.gcross{ text-decoration:none;color:#009FDA;background:url('../images/cdosn/cross-gray.svg') right no-repeat;display:block}
+a.gcross.only{ width: 25px; height: 25px; float: right}
+/* marginy kvuli "poskakovani" textu pri prenuti z inputu na prekryvny div a naopak */
+a.nounderline { display:block; width: 355px; float: left;margin-left: 2px; }
+/* hack aby se div s pres stanici zobrazoval stejne jako input - stejna velikosti pisma */ 
+.con-inbox-sr div.text.btop { font-size: 16px; }
+
+/* pravidla pro via stanice s krizkem na smazani - pro naseptavac (customize pro sedy layout) */
+/* prekryvny div by mel mit stejny border jako input */
+ .con-inbox-sr.cd-drop-search-grey {
+  border: 1px solid #b5c1cd;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+}
+
+/* pro spravne zobrazeni chyboveho textu v prekryvnem divu */ 
+.is-drop-station-err + .con-inbox-sr {
+    padding-bottom: 17px;
+}
+
+ /* div v sedem layoutu nema mit modry border-top (vyuziva scena eshop.css) 
+    velikost pisma v divu by mela byt stejna jako v inputu
+ */
+.con-inbox-sr.cd-drop-search-grey  div.text.btop {
+  border-top: none;
+}
+
+/* text v divu s vybranou polozkou naseptavace mel stejnou barvu barvu jako text v inputu */
+.con-inbox-sr.cd-drop-search-grey  a {
+    color: #778899;
+}
+
+/* z cdweb-comps.css presunuto sem a zobecneno, protoze menu naseptavace nemame v divu s class .cd-drop-station jak jejich css pravidlo ocekava */
+.cd-drop-search-grey.dropdown-menu {
+  border-color: #66AFE9;
+  outline: 0;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, 0.6) !important;
+  box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, 0.6) !important;
+}
+
+/* prekryvny div ani nabidka naseptavace nema mit ikonu sipky nahoru/dolu jako naseptavac (ikona se vklada pres tridu cd-drop-search-grey, kterou ma i prekryvny div/nabidka naseptavace)*/
+.dropdown-menu.cd-drop-search-grey:after, .con-inbox-sr.cd-drop-search-grey:after {
+    border: none;
+}
+
+/*tridy pro zobrazeni ikony vlaku, lode, lanovky, autobusu v naseptavaci*/
+
+.cd-icon-svg-train, .cd-icon-svg-boat, .cd-icon-svg-bus, .cd-icon-svg-cableway, .cd-icon-svg-pedestrian {
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    border-style: none;
+    font-size: 16px;
+    position: relative;
+    top: 7px;
+}
+.cd-icon-svg-train {
+  background: rgba(0, 0, 0, 0) url(../images/cdosn/train-gray.svg) center center no-repeat;
+}
+.cd-icon-svg-boat {
+  background: rgba(0, 0, 0, 0) url(../images/cdosn/ico-boat-g.svg) center center no-repeat;
+}
+.cd-icon-svg-bus {
+  background: rgba(0, 0, 0, 0) url(../images/cdosn/ico-bus-g.svg) center center no-repeat;
+}
+.cd-icon-svg-cableway {
+  background: rgba(0, 0, 0, 0) url(../images/cdosn/ico-cableway-g.svg) center center no-repeat;
+}
+.cd-icon-svg-pedestrian {
+  background: rgba(0, 0, 0, 0) url(../images/cdosn/man.svg) center center no-repeat;
+}
+
+/* upravime si pozicovani hvezdicky (favorite) tak aby to sedelo nasemu naseptavaci */ 
+.cd-icon-svg-star-fav {
+    position: inherit;
+    float: right;
+    margin-top: 10px;
+}
+
+/* skryjeme vypisovane zpravy z jquery-ui, ktere slouzi pro lepsi dostupnost zrakove postizenych */ 
+.ui-helper-hidden-accessible {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+/***** naseptavac - end *****/
+
+/***** modalni okno odeslani emailu - start *****/
+/* chybove bubliny */ 
+.cd-tooltip-stat.wide400.arrt {
+    width: 400px;
+}
+
+.bdownlight.fileIcoPDF {
+	padding:15px 0 15px 30px;
+	margin-bottom: 10px; 
+	background: url(../images/cdosn/ico-pdf.svg) center left no-repeat;
+}
+
+/* ikona ok */
+#emailModal .cd-icon-ok {   
+    left: 508px;
+}
+
+/* chybne zadany email */
+#emailModal .cd-input-danger {
+    width: 100%;
+}
+
+/***** modalni okno odeslani emailu - end *****/

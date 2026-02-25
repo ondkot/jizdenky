@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="47px" height="33px" viewBox="0 0 47 33" enable-background="new 0 0 47 33" xml:space="preserve">
+<defs>
+</defs>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#002664" stroke="#002664" stroke-width="2.3172" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M26.107,3.591c0,0.67-0.231,1.236-0.695,1.7c-0.464,0.489-1.043,0.733-1.738,0.733c-0.644,0-1.197-0.244-1.66-0.733
+	c-0.463-0.464-0.695-1.03-0.695-1.7c0-0.669,0.232-1.248,0.695-1.737c0.463-0.463,1.017-0.695,1.66-0.695
+	c0.695,0,1.274,0.232,1.738,0.695C25.876,2.343,26.107,2.922,26.107,3.591z"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#002664" stroke-width="2.3172" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M5.6,6.372c0.412,0.412,0.618,0.914,0.618,1.506c0,0.593-0.206,1.095-0.618,1.506c-0.412,0.438-0.914,0.657-1.506,0.657
+	S2.987,9.822,2.549,9.384C2.137,8.973,1.931,8.471,1.931,7.878c0-0.592,0.206-1.094,0.618-1.506C2.987,5.96,3.501,5.754,4.094,5.754
+	S5.188,5.96,5.6,6.372z"/>
+<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#002664" stroke-width="2.3172" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+	11.084,8.342 7.067,12.898 3.167,14.058 3.167,20.816 7.531,23.905 6.373,29.621 "/>
+<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#002664" stroke-width="2.3172" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+	3.167,20.816 3.167,25.914 1.159,31.668 "/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#002664" stroke-width="2.3172" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+	M36.534,7.607c0,0.593,0.219,1.095,0.657,1.507c0.411,0.412,0.914,0.618,1.506,0.618c0.593,0,1.095-0.206,1.506-0.618
+	c0.412-0.412,0.618-0.914,0.618-1.507c0-0.592-0.206-1.106-0.618-1.544c-0.411-0.412-0.913-0.618-1.506-0.618
+	c-0.592,0-1.095,0.206-1.506,0.618C36.753,6.501,36.534,7.016,36.534,7.607z"/>
+<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#002664" stroke-width="2.3172" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+	36.921,31.707 36.921,24.601 39.624,20.546 39.624,13.787 35.685,12.629 31.707,8.032 "/>
+<polyline fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#002664" stroke-width="2.3172" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" points="
+	45.842,26.107 40.976,25.527 39.624,21.627 39.624,20.546 "/>
+</svg>

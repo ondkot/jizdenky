@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100px" height="100px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 100 100"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#049EDA;stroke-width:2.99992;stroke-linecap:round;stroke-linejoin:round}
+    .str0 {stroke:#778799;stroke-width:2.99992;stroke-linecap:round;stroke-linejoin:round}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Vrstva_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_910671600">
+   <polyline class="fil0 str0" points="67,45 44,23 2,65 13,76 14,75 "/>
+   <path class="fil0 str0" d="M14 75c4,-4 9,-4 12,0 3,3 3,8 0,11"/>
+   <polyline class="fil0 str0" points="26,86 25,87 36,98 78,56 67,45 "/>
+   <line class="fil0 str0" x1="87" y1="25" x2="86" y2= "27" />
+   <path class="fil0 str0" d="M86 27c-4,3 -9,3 -12,0 -3,-4 -3,-9 0,-12"/>
+   <polyline class="fil0 str0" points="74,15 75,14 64,3 44,23 78,56 98,36 87,25 "/>
+   <path class="fil0 str1" d="M25 25c0,7 -5,12 -11,12 -6,0 -12,-5 -12,-12 0,-6 6,-11 12,-11 6,0 11,5 11,11"/>
+   <path class="fil0 str1" d="M7 25c0,-3 3,-6 7,-6"/>
+   <path class="fil0 str1" d="M44 10c0,4 -4,8 -8,8 -5,0 -8,-4 -8,-8 0,-5 3,-8 8,-8 4,0 8,3 8,8"/>
+   <line class="fil0 str0" x1="29" y1="60" x2="45" y2= "44" />
+   <line class="fil0 str0" x1="35" y1="66" x2="50" y2= "50" />
+   <line class="fil0 str0" x1="41" y1="72" x2="56" y2= "56" />
+  </g>
+ </g>
+</svg>

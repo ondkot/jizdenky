@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="19.946" width="19.978" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-558.57562,-330.96043)">
+  <g style="stroke:#7ed0ef;">
+   <g style="stroke:#7ed0ef;">
+    <g style="stroke:#7ed0ef;" transform="translate(59.292728,-292.13584)">
+     <g style="stroke:#7ed0ef;" transform="matrix(1.0285017,0,0,-1.0285017,518.23289,626.53532)">
+      <path style="stroke-linejoin:round;stroke:#7ed0ef;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-width:2;fill:none;" d="m0,0c0-1.3-1.053-2.353-2.353-2.353s-2.353,1.053-2.353,2.353,1.053,2.353,2.353,2.353,2.353-1.053,2.353-2.353z"/>
+     </g>
+     <g style="stroke:#7ed0ef;" transform="matrix(1.0285017,0,0,-1.0285017,505.16464,639.60358)">
+      <path style="stroke-linejoin:round;stroke:#7ed0ef;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-width:2;fill:none;" d="m0,0c0-1.299-1.053-2.353-2.353-2.353s-2.353,1.054-2.353,2.353c0,1.3,1.053,2.353,2.353,2.353s2.353-1.053,2.353-2.353z"/>
+     </g>
+     <g style="stroke:#7ed0ef;" transform="matrix(1.0285017,0,0,-1.0285017,507.22164,635.12641)">
+      <path style="stroke-linejoin:round;stroke:#7ed0ef;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-width:2;fill:none;" d="M0,0,4,4"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

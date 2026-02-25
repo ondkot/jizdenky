@@ -1,0 +1,265 @@
+/* { font-size: 10px; }*/
+
+.noprint { display: none; }
+
+body { background: #FFFFFF; color: #778899; font-weight: normal; font-family: Arial, Verdana, Tahoma; line-height: 1.42857143; font-size: 70%; }
+
+#layout { max-width: 980px; margin: 0 auto; }
+
+a { color: #000; }
+
+button { border: 1px solid #000; background: #fff; color: #000; padding: 0.5em 1em; margin: 1em 0; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; }
+
+#logo { display: none; width: 199px; height: 36px; }
+/*#logo::after { content: "<img src='../images/cdosn/ceske-drahy.svg'>"; }*/
+
+#langs { display: none; }
+
+.rmenutop, nav, #customerbox, #fullbrandbanner, .breadcrump, footer { display: none; }
+
+
+#eshop-searchForm, ul.fact { display: none; }
+
+.promo, .xclose, .close-bag, .vo-pad { display: none; }
+
+.groupHistoryLink, .paging, .bbar, .cd-select { display: none; }
+
+.box-bar, .filter-box, .linksnav, .cd-tabs, .dropdown-menu, .modal, .is-legend-detail, .is-legend-box, .contentcol.right.smallcol, .cbilinks { display: none; }
+
+.cnttop, .forqrgrey, .adtnl-service-it { padding: 5px 0; border-top: 1px dotted #000; }
+
+.guidebox, .ticket { padding: 1em 0; border-top: 1px dotted #000; }
+
+.bottom-bar-left.topdivider, .train-wagons { display: none; }
+
+.delay span.inin { display: block; width: 100%; font-style: italic; text-align: center; border-top: 1px dotted #ccc; border-bottom: 1px dotted #ccc; padding: 15px 0; margin-bottom: -15px; }
+.bgtrialeft, .bgtriaright { display: none !important; }
+
+.reset { display: block; clear: both; height: 1px; overflow: hidden; }
+
+/* detail spjeni */
+
+.result-col1, .bottom-bar-left { display: block; width: 78%; float: left; }
+.result-col2 { display: block; width: 22%; float: right;  }
+
+/*.traindetail .res-city { display: inline-block; vertical-align: top; margin: 0 3em 1em 0; }*/
+
+.traindetail { margin-top: 1em; padding-left: 40px; }
+.traindetail a { text-decoration: none; }
+.traindetail h2 { color: #000; padding: 0 0 10px 0; margin: 0; font-size: 160%; font-weight: 700; margin-left: -25px; }
+
+.res-city, .bottom-bar-left { background: #efefef; color: #000; margin: 0 0 2px 0; }
+.res-city { padding: 2px 15px; }
+.res-city a { color: #000; }
+.bottom-bar-left { padding: 7px 0; }
+.bottom-bar-left span { display: inline-block; width: 15px; }
+.res-city.rcheader { background: #333; color: #fff; font-size: 120%; font-weight: bold; }
+.res-city span { display: inline-block; vertical-align: middle; width: 20%; max-width: 250px; }
+.res-city span.res-addinfo { display: block; font-size: 90%; font-weight: normal; width: 100%; }
+.res-city span.res-addinfo span { display: none; }
+.res-city span.res-addinfo span.stroke-blue { display: block; width: 100%; }
+
+.res-city .res-cityname { width: 40%; max-width: 300px; }
+.res-city .res-cityname a { text-decoration: none; }
+.res-city:not(.rcheader) .res-cityname { font-size: 135%; font-weight: bold; }
+.res-city.res-city-clean .res-cityname { font-size: 100%; }
+
+.res-city .res-time { max-width: 120px; }
+.res-city .res-smalltimecommon { width: 40%; max-width: 272px; }
+.res-city:not(.rcheader) .res-time { font-size: 135%; font-weight: bold; }
+
+.res-city .res-time em { font-size: 100%; font-weight: normal; font-style: normal; }
+
+.res-city .res-infextra { max-width: 80px; }
+.res-city .res-infextra span { width: 100%; display: block; }
+
+.buybut { padding: 10px; display: block; font-size: 200%; font-weight: bold; float: right; text-align: right; text-decoration: none; }
+.buybut em { content: "Cena "; font-size: 80%; font-weight: normal; font-style: normal; }
+.buybut em.bbt1 { display: block; }
+.buybut em.bbt2 { display: none; }
+
+.detailrc2, .detailrc3 { display: none; }
+.lockout { display: inline-block; text-decoration: none; color: #000; }
+.lockout span.forlockoutico { display: inline-block; width: 25px; vertical-align: middle; }
+.lockout span.txt-orange { display: inline-block; vertical-align: middle; width: 120px; }
+
+.bottom-bar-left span.forico { display: inline-block; width: 30px; vertical-align: middle; }
+.bottom-bar-left span.forico.thin { width: 15px; }
+.bottom-bar-left span.forico.wm15 { margin-left: 15px; }
+
+.connbuyinfo, .traintooltip, #paymentInfo, .onlyreservation { display: none; }
+
+.cd-tabs-content table { border: 1px solid #000; width: 100%; border-collapse: collapse; }
+.cd-tabs-content table td, .cd-tabs-content table th  { border: 1px solid #000; border-collapse: collapse; padding: 1em 2em; }
+
+.result-col1 p.res-mid .stroke, .result-col1 p.res-subbottom .stroke { border: none; padding: 0 5px 0 0; }
+
+.trainthumb { display: block; text-decoration: none; margin-bottom: 1em; }
+.trainthumb span { text-decoration: underline; }
+
+.train-link { display: block; font-size: 150%; padding: 0 0 1em 1em; }
+.train-icons { display: block; padding: 0 0 0 1.5em; }
+.train-icons img { width: 20px; } /* toto jsou ikonky ktere se netisknout protoze jsou zrejme jako pozadi... */
+
+.train-vagons { margin-top:-1em; padding-top: 0; margin-bottom: 1em; }
+.train-vagons p { margin-top: 0; padding-top: 0; display: inline; }
+.train-vagons .item { display: inline-block; vertical-align: top; font-size: 70%; text-align: center; margin-right: 3px; }
+.train-vagons .item img { width: 60px; }
+
+a.more { display: none; }
+
+.gb-body-part3 button, .gb-body-part3 a, .gb-body-part4 button, .gb-body-part4 a { display: none; }
+
+.ticketbox1, .ticketbox2 { display: inline-block; vertical-align: top; }
+.ticketbox1 a { display: none; }
+.ticketbox2 { float: right; padding-left: 3em; }
+.ticketbox2 .ptitle { font-size: 200%; font-weight: bold; }
+.ticketbox1 .ttitle { font-size: 160%; font-weight: bold; } 
+.ticketbox1 .text { font-weight: bold; }
+
+.asi-img, .asi-text { display: inline-block; vertical-align: top; }
+.asi-img { padding-right: 2em; }
+.asi-text h3 { margin-top: 0; }
+
+h1 { font-size: 200%; }
+h2 { font-size: 160%; }
+h3 { font-size: 140%; }
+
+
+/* postup nakupu - doplnkove sluzby etc.. */
+button, a.detail, .right-buttons { display: none; }
+
+.grtxt { display: block; font-size: 200%; font-weight: bold; float: right; text-align: right; text-decoration: none; margin-top: -3em; }
+
+.bgl { padding: 0.5em 0; border-top: 1px solid #cfdde8; }
+.adr { padding: 1em 0; }
+.adr .adc { display: inline-block; vertical-align: top; }
+.adr .adc .vehicle-icon-additional { display: none; }
+.inl-b { font-weight: bold; line-height: 1.5; }
+.adr img.ica { height: 5px; margin: 0 0 0 2px; } 
+.adc2 { color: #777; }
+.adr .adc2 img.ica { height: 6px; margin: 0 5px 0 0; }
+
+div.line100p { border-bottom: 1px solid #cfdde8; height: 1px; margin: 0.5em 0; }
+
+/* kosik */
+.sh-ticket { padding: 2em 0; border-top: 1px dotted #000; }
+.box-price { display: block; font-size: 200%; line-height: 1; font-weight: bold; text-align: right; text-decoration: none; } 
+
+.sh-ticketbox1, .sh-ticketbox2, .sh-ticketbox3 { display: inline-block; vertical-align: middle; }
+.sh-ticketbox1 { width: 45%; }
+.sh-ticketbox2 { width: 30%; }
+.sh-ticketbox3 { width: 20%; text-align: right; }
+.sh-ticketbox2 a { display: none; }
+
+.city-circle-blue { font-size: 150%; font-weight: bold; } 
+.city-circle-blue span { font-size: 75%; font-weight: normal; }
+
+.placeintrain img { height: 10px; margin: 0 0 0 2px; } 
+
+/* vlak */
+.detail-box-map { display: none; }
+.detail-box .cd-input-info { border: none; font-size: 100%; font-weight: bold; padding: 0 0 0 0.125em; margin-top: 1em; }
+h1.actual-header, .right-col-detail h1 { font-size: 150%; }
+.way-box { /*border-top: 1px solid #cfdde8; padding: 1em 0;*/ }
+.way-box img { display: none; }
+.way-box .way-city, .way-box .way-time { display: inline-block; vertical-align: top; width: 45%; }
+.way-box .way-city { font-size: 120%; font-weight: bold; }
+.way-box .way-city span { font-size: 75%; font-weight: normal; }
+.way-box .way-time { } 
+.addcalendarlink { display: none; }
+.trl-p { border-top: 1px solid #cfdde8; }
+.right-col-detail .dark-col.smallertext { display: none; }
+
+/* stanice */
+.MapaImagediv { display: none; visibility: hidden; height: 0 !important; }
+#mainContent_StationOPTControler_MainDiv { display: none; }
+.ico-share-box, .favicon-ico-blue, #mainContent_favorite { display: none; visibility: hidden; } 
+ul.tab-service { margin: 0; padding: 0 ; }
+ul.tab-service li { max-width: 100% !important; width: 45%; display: inline-block; vertical-align: middle; text-align: left; }
+ul.tab-service li.li-top { list-style-type: none; width: 8%; }
+ul.tab-service li.li-top img { width: 15px; margin: 0 10px 0 0; }
+ul.tab-service li..li-right { text-align: right; }
+#mainContent_LabelTrate ul.tab-service li:first-child { width: 10%; } 
+ul.tab-service span.gr-no { border: 1px solid #cfdde8; padding: 0.25em 0.5em; margin-top: 0.5em 1em 0.5em 0.5em; font-weight: bold; font-size: 130%; display: inline-block; }
+ul.tab-service li.li-name { font-size: 120%; font-weight: bold; }
+ul.tab-service li.li-rp0 { display: none; }
+.favtrateclick { display: none; }
+
+/* guideboxes */
+.booktabs .nav-tabs { display: none; }
+.guidebox { min-height: 0 !important; }
+.guidebox .value { font-weight: bold; font-size: 110%; }
+.spacer { display: none; }
+
+/* moje cestovani */
+.travelbox { border-top: 1px solid #000; margin: 1em 0; }
+.tbrow { border-top: 1px solid #cfdde8; height: 1px; margin: 0.5em 0; clear: both; min-height: 20px; }
+a.tbrow.lst2 { display: block; clear: both; text-decoration: none; padding: 1em 0; }
+a.tbrow.lst2 span { display: inline-block; vertical-align: middle; }
+a.tbrow.lst2 span.mr20 { width: 10%; }
+a.tbrow.lst2 span.cname { width: 85%; }
+a.tbrow.lst2 span.floatright { float: right; margin: -1em 0 0 1em; }
+img.travuser { border-radius: 50%; float: left; margin-right: 5px; height: 30px; width: 30px; }
+.editbl { display: none; } 
+.map-wrapper, .mapcont, .mapcontlegend, .exception-text { display: none; visibility: hidden; height: 0 !important; } 
+.mppic { display: none; }
+.credit-infobox li { display: inline-block; vertical-align: middle; }
+.my-restr .icores { display: none; } 
+
+a.tbrow.hmid { display: block; clear: both; text-decoration: none; margin: 1em 0; }
+a.tbrow.hmid span { display: inline-block; vertical-align: middle; width: 23%; }
+a.tbrow.hmid span.tn1 { font-weight: bold; font-size: 120%; }
+
+ul.um { margin: 0; padding: 0; border-top: 1px solid #cfdde8; }
+ul.um li { display: inline-block; vertical-align: middle; list-style-type: none; padding: 1em 0; }
+ul.um li.ma20 { width: 8%; }
+ul.um li.ma20 img { height: 10px; }
+
+/* clanky */
+.iluleft, .iluright, .toctnt2col2 { display: none; }
+.guide-infobox-lg img, guide-infobox-v2 img { max-height: 30px; float: left; margin: 0 1em 1em 0; }
+.bdown img { display: none; } 
+
+/* profil uzivatele */
+.u-blue { border: 1px dotted #000; padding: 1em; font-size: 120%; }
+.u-blue .u-avat-blue { border-radius: 50%; float: left; margin-right: 5px; height: 30px; width: 30px; }
+.u-blue h2 { margin: 0; padding: 0; }
+.u-blue .u-txtb {   } 
+
+#passFav { }
+#passFav .img30 { border-radius: 50%; float: left; margin-right: 5px; height: 30px; width: 30px; }
+#passFav ul { margin: 0; padding: 1em 0 0 0; clear: both; }
+#passFav li { list-style-type: none; }
+#passFav li.l20 { display: none; }
+
+.credit-infobox ul { margin: 0; padding: 0; clear: both; }
+
+li.li-bot { text-align: center; margin-bottom: 10px; font-weight: bold; padding-right: 15px; }
+li.li-bot .green-price, li.li-bot .sub-box { border: 1px solid #000; border-radius: 50%; height: 30px; width: 50px; padding: 10px 0; margin-bottom: 5px; font-size: 120%; }
+li.cd2, li.uifrbtn { display: none; }
+
+li.li-bot .green-price p, li.li-bot .sub-box p { font-size: 65%; margin-top: 0; font-weight: normal; }
+
+.u-box { border-bottom: 1px dotted #000; }
+
+#unregProfMenu { display: none; }
+
+/* sideshopping */
+.pimg { display: none; }
+.akabutton, .promobox-switch { display: none; }
+.bpoints { float: right; }
+.bpoints p { float: right; }
+.bpoints span { float: right; display: inline-block; padding: 6px 0 0 2px; }
+.promobox { border-bottom: 1px dotted #000; }
+
+/* FAQ */
+.faq-line { border-bottom: 1px dotted #000; }
+.faq-question a { text-decoration: none; font-weight: bold; font-size: 80%; }
+.collapsed, .collapse { height: auto !important; }  
+
+/* reklamy */
+div[class^='adv'] { display: none; }
+
+/* Forcing Browsers to Print Backgrounds*/
+/* * {-webkit-print-color-adjust:exact;} */
